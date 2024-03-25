@@ -3,7 +3,7 @@
 This is a face recognition-based attendance system developed in Python. The system utilizes the OpenCV library along with other modules to recognize faces and mark attendance in a CSV file.
 
 ## Author
-This project was developed by [Rohan Das](https://rohandas28.github.io). You can find more information about the author on their [website](https://rohandas28.github.io).
+This project was developed by [Sumon Mondal](https://www.linkedin.com/in/sumonmondal123/). 
 
 ## Requirements
 The following modules are required to run the system:
