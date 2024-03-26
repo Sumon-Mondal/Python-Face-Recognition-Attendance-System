@@ -13,6 +13,7 @@ tkinter.ttk
 tkinter.messagebox
 tkinter.simpledialog
 cv2
+opencv-python
 os
 csv
 numpy
